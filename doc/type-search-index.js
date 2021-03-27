@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Assistant"},{"p":"<Unnamed>","l":"AssistantOnShift"},{"p":"<Unnamed>","l":"BookableRoom"},{"p":"<Unnamed>","l":"Booking"},{"p":"<Unnamed>","l":"BookingApp"},{"p":"<Unnamed>","l":"BookingSystem"},{"p":"<Unnamed>","l":"Room"},{"p":"<Unnamed>","l":"University"}]
